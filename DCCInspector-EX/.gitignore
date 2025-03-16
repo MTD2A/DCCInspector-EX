@@ -1,0 +1,9 @@
+## Ignore PlatformIO and Visual Studio code files
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio
+.vscode
+.vscode/*
+**/hardware/*backups/
